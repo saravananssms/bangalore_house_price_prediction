@@ -1,0 +1,9 @@
+{
+  "mae": 15.701969617438863,
+  "r2_score": 0.9091298081820686,
+  "epochs_trained": 39,
+  "features": 103,
+  "training_samples": 10346,
+  "test_samples": 2587,
+  "architecture": "Dense(128)->BN->Dense(64)->BN->Dense(32)->Dense(1)"
+}
